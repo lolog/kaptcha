@@ -41,7 +41,7 @@ kaptcha.image.height  ---------------image height,             default: 50
     <url-pattern>*.jpg</url-pattern>
 </servlet-mapping>
 ```
-或者：
+Or:
 ```xml
 <servlet>  
     <servlet-name>Kaptcha</servlet-name>  
